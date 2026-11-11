@@ -1,0 +1,9 @@
+{
+  "name": "milimusic-conexiones",
+  "version": "1.0.0",
+  "description": "Servidor de conexiones a distancia de miliMusic",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" },
+  "license": "GPL-3.0"
+}
