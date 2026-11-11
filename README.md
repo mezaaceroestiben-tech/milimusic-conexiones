@@ -1,2 +1,5 @@
 # milimusic-conexiones
-Servidor creado con el Mega panel de GitHub
+
+Servidor de conexiones de miliMusic, sin dependencias. Ruta de conexión: /link.
+
+Creado con el Mega panel de GitHub.
